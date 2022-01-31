@@ -8,7 +8,7 @@
 **About me:**
 
 
-- 🔭 I’m currently working on Chat Application for Android using Firebase.                        
+<!-- - 🔭 I’m currently working on Chat Application for Android using Firebase. -->                      
 - 🌱 I’m currently learning Android Development, React-Native Development, Data structures and Algorithms, Object oriented Concepts, Database Management System,         Operating System, Computer Network.
 - 👯 I’m looking to collaborate on any Android Projects.
 - 🤔 I’m looking for help in finding good open source Android projects. 
